@@ -1,3 +1,3 @@
 # Stream Closed Captioner
 
-Home to file any issues you see and want to help document.
+If you find any bugs or would like to request a feature please visit: https://github.com/talk2MeGooseman/Stream-Closed-Captioner/issues
