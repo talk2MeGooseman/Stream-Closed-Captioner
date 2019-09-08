@@ -9,5 +9,5 @@ jobs:
       uses: takanabe/add-new-issues-to-project-column@v0.0.3
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        PROJECT_COLUMN_NAME: Stream Closed Captioner
-        PROJECT_NAME: Backlog
+        PROJECT_NAME: Stream Closed Captioner
+        PROJECT_COLUMN_NAME: Backlog
